@@ -389,6 +389,8 @@ img {
   height: auto;
 }
 
+.div-inline{ display:inline} 
+
 .img-circle {
   border-radius: 50%;
 }
