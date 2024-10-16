@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elden Tse"
+title                    : "Zhongqun Zhang"
 title_separator          : "-"
-name                     : &name "Elden Tse"
-description              : &description "Postdoctoral Research Fellow at National University of Singapore"
-url                      : https://eldentse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhongqun Zhang"
+description              : &description "PhD Student at Univeristy of Birmingham"
+url                      : https://zhongqunzhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eldentse.github.io"
+repository               : "zhongqunzhang.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elden Tse"
-  avatar           : "profile_cropped.jpeg"
-  bio              : "Postdoctoral Research Fellow at National University of Singapore"
-  location         : "Singapore"
+  name             : "Zhongqun Zhang"
+  avatar           : "zq.jpg"
+  bio              : "PhD Student at Univeristy of Birmingham"
+  location         : "United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KAOah3QAAAAJ&hl=zh-TW&oi=ao"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=B1mu6ugAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eldentse"
+  github           : "ZhongqunZHANG"
   google_plus      :
   keybase          :
   instagram        :
